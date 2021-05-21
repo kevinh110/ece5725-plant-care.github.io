@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Test
 
 You can use the [editor on GitHub](https://github.com/kevinh110/ece5725-plant-care.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
